@@ -5,8 +5,7 @@
 
 ### Description:
 
-    This image displays an interactive dashboard visualizing various aspects of Airbnb listings in New York City. 
-    The dashboard features several key metrics and visualizations, including:
+This image displays an interactive dashboard visualizing various aspects of Airbnb listings in New York City. The dashboard features several key metrics and visualizations, including:
 
 ### Top Metrics: 
 
